@@ -10,7 +10,7 @@ int main (void){
     std::cout.precision(7);
     std::cout.setf(std::ios::scientific);
 
-    for (int k = 1; k <= 100; k++){
+    for (int k = 1; k <= 1000000; k++){
         REAL delta = std::fabs(1.0 - (sum1(k) / sum2(k)));
         std::cout << k << "\t" << sum1(k) << "\t" << sum2(k) << "\t" << delta << "\n";
     }
