@@ -2,3 +2,4 @@
 *.txt
 #*.png
 *.plt
+.vscode/
