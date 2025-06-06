@@ -1,0 +1,6 @@
+a.out;_start 93608
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main 154194788
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func1 23614172430
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func1;new_func1 24088062346
+a.out;_start;__libc_start_main@@GLIBC_2.34;__libc_start_call_main;main;func2 22281286119
+a.out;_start;_dl_start;_dl_sysdep_start;dl_main;_dl_map_object_deps;_dl_catch_exception;openaux;_dl_map_object;open_verify.constprop.0 22140366
